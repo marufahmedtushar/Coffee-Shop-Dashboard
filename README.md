@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales-Data-Analysis
+# Coffee-Shop-Dashboard
 Coffee Shop Sales Data Analysis
 # Project Objective
 The primary objective of this project is to perform a comprehensive analysis of the coffee shop's sales data to derive actionable insights that can inform business strategy and optimize operations.
