@@ -43,19 +43,20 @@ The primary objective of this project is to perform a comprehensive analysis of 
 
 **Insights**
 
-• Total Sale 233.64K
+• Total Sales: 233.64K
 
-• Quantity sold 72K
+• Total Quantity Sold: 72K
 
-• Transaction (Count) 49.894K
+• Total Transactions: 49.89K
 
-• Order Count 59K
+• Total Orders: 59K
 
-• From 30 day sales at 17th day Daily Sales Trend was highest(9.8k)
+• The highest daily sales (9.8K) occurred on the 17th day of the month.
 
-• 9 AM to 11:30 AM is the peek selling time
+• Peak business hours are between 9:00 AM and 11:30 AM, indicating the busiest sales period.
 
-• Britanni Jorden Top Seller Staffs
+• Britanni Jorden is the top-performing staff member based on total sales.
+
 
 **Product Performance**
 
@@ -63,15 +64,20 @@ The primary objective of this project is to perform a comprehensive analysis of 
 
 **Insights**
 
-• Most Selling (82.37%) Product groups Beverages
+• Beverages dominate sales, contributing 82.37% of total sales.
 
-• Most Selling Product Type Gourmet brewed coffee (12.21%) & Brewed Chai Tea (12.17%)
+• The highest-selling product types are:
 
-• Category Wise Sale top selling product is Coffee
+  • Gourmet Brewed Coffee – 12.21%
 
-• Top Selling Product is Sustainably Grown Organic Lg
+  • Brewed Chai Tea – 12.17%
 
-• Less Selling Products Dark chocolate
+• Coffee is the highest-selling product category.
+
+• Sustainably Grown Organic Lg is the overall best-selling product.
+
+• Dark Chocolate is the lowest-selling product.
+
 
 **Pastry Sales**
 
@@ -79,31 +85,30 @@ The primary objective of this project is to perform a comprehensive analysis of 
 
 **Insights**
 
-• Profit From Pastry 3.46K
+• Total Pastry Revenue: 3.46K
 
-• Total Pastry Sold (Quantity) 3K
+• Total Pastry Quantity Sold: 3K
 
-• Total Pastry Retail Price 9.90K
+• Total Retail Value: 9.90K
 
-• Total Pastry Wholesale Price 6.44K
+• Total Wholesale Cost: 6.44K
 
-• Around 61% pastries were wasted than sold
+• Approximately 61% of pastries were wasted, indicating significant inventory inefficiency.
 
-• Ginger Scone Top selling pastry item
+• Ginger Scone is the best-selling pastry item.
 
-• Daily Sales Trend of Pastry
+• Pastry sales peaked on the 14th day (167 units) and 20th day (163 units).
+
 
 **Customers Insights**
 
 <img width="709" height="399" alt="coffe 4" src="https://github.com/user-attachments/assets/ff85e5d9-5967-4926-9bd3-5d8de2e3ca7a" />
 
 **Insights**
+• Returning customers place more orders than new customers, demonstrating strong customer loyalty.
 
-• New customers ordering less than old customers
-
-• Mostly Baby Boomers are liking our products
-
-• Men's are our regular customer
+• Baby Boomers represent the largest customer segment.
+• Male customers make up the majority of regular buyers.
 
 • Kelly Key, Dennis, Willow, Mark, Summer are top customers
 
@@ -113,7 +118,7 @@ The primary objective of this project is to perform a comprehensive analysis of 
 
 **Insights**
 
-• 8 no outlet is the best seller for both Coffee & Pastry item
+• Outlet No. 8 generates the highest sales for both coffee and pastry products.
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiY2NjODBkN2YtOTNhMi00ZDgxLTg5NWQtYTg3ZDQ0ZGQ4YzBlIiwidCI6IjUyMGMxZWM3LWI4ZWEtNGM3Ny05YTdlLTE0NDkwYTkxMzlhYSIsImMiOjEwfQ%3D%3D">Live Link</a> 
 
@@ -123,11 +128,11 @@ The primary objective of this project is to perform a comprehensive analysis of 
 
 • Ensure adequate staffing during the **9 AM to 11:30 AM** peak period to maximize sales and customer satisfaction.
 
-• **Leverage Top Performers:** Study the sales techniques of **Britanni Jorden** and the operational efficiency of **Outlet ID 8** and apply those best practices across other outlets.
+• Strengthening customer retention strategies is important, as returning customers contribute more consistently to sales.
 
-• Investigate the sharp decline in new customers since 2017 to understand the cause and develop targeted campaigns to attract new demographics, while continuing to cater to the loyal **Baby Boomer** base.
+• Sales strategies implemented at Outlet No. 8 can be analyzed and replicated across other outlets to improve overall performance.
 
-• Determine why **Outlet ID 5** has the most customers but not the highest sales. This could indicate opportunities to increase the average transaction value through upselling or promotional bundles.
+• Promotional efforts may help increase sales of low-performing products such as Dark Chocolate, while maintaining adequate stock of high-demand coffee products.
 
 
 
