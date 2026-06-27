@@ -105,9 +105,11 @@ The primary objective of this project is to perform a comprehensive analysis of 
 <img width="709" height="399" alt="coffe 4" src="https://github.com/user-attachments/assets/ff85e5d9-5967-4926-9bd3-5d8de2e3ca7a" />
 
 **Insights**
+
 • Returning customers place more orders than new customers, demonstrating strong customer loyalty.
 
 • Baby Boomers represent the largest customer segment.
+
 • Male customers make up the majority of regular buyers.
 
 • Kelly Key, Dennis, Willow, Mark, Summer are top customers
